@@ -9,3 +9,6 @@ This project concerns the development of pine processionary. The goal of this pr
 - x8 height of dominant trees (in meters)
 - x9 stratification of the vegetation
 - x10 mixed poplatiion character (1 not mixed, 2 mixed)
+
+Contributor :
+- Ahmed El Aamrani
